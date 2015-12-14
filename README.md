@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] Users can change what percentages are displayed in the segmented controll
+- [X] Users can change what percentages are displayed in the segmented control options.
 
 ## Video Walkthrough
 
